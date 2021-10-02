@@ -1,0 +1,12 @@
+.logotext{
+  padding-left: .3125rem;
+  text-decoration: none;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.repo_url{
+  text-decoration: none;
+}
